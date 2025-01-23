@@ -1,2 +1,3 @@
-# 4Geeks_Pandas
+# 4Geeks_Prework_Exercises
+Ejercicios_Numpy_4Geeks_Academy
 Ejercicios_Pandas_4Geeks_Academy
